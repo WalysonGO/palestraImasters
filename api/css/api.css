@@ -1,0 +1,84 @@
+body {
+    padding-top: 70px;!important;
+}
+.navbar-default {
+    background-image: none !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(175, 34, 38, 1) !important;
+    border-bottom-width: 0px !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav > li > a {
+    color: rgba(255, 255, 255, 1) !important;
+    background-color: rgba(248, 248, 248, 0) !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav > li > a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav > li > a:focus {
+    color: rgba(255, 255, 255, 1) !important;
+    background-color: rgba(125, 11, 15, 1) !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-nav > .active > a,
+#custom-bootstrap-menu.navbar-default .navbar-nav > .active > a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav > .active > a:focus {
+    color: rgba(255, 255, 255, 1) !important;
+    background-color: rgba(140, 14, 18, 1) !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #8c0e12 !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #8c0e12 !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #8c0e12 !important;
+}
+
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #af2226 !important;
+}
+
+.btn-custom-short {
+    width: 100%;
+    text-align: left;
+}
+.btn-custom-big {
+    padding: 20px 12px!important;
+}
+
+.btn-custom {
+    background-color: rgba(175, 34, 38, 1) !important;
+    background-color: rgba(175, 34, 38, 1) !important;
+    color: #ffffff;
+    font-size: 14px;
+    border-width: 1px;
+
+    -webkit-border-radius: 10px!important;
+    -moz-border-radius: 10px!important;
+    border-radius: 10px!important;
+}
+
+.btn-custom:hover {
+    background-color: rgba(140, 14, 18, 1) !important;
+    background-color: rgba(140, 14, 18, 1) !important;
+    color: #ffffff;
+}
+
+.btn-custom:active, .btn-custom:focus {
+    background-color: rgba(140, 14, 18, 1) !important;
+    background-color: rgba(140, 14, 18, 1) !important;
+    color: #ffffff;
+}
